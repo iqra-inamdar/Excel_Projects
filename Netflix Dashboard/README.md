@@ -1,1 +1,97 @@
+# Netflix Content Distribution Dashboard
+
+## 📌 Project Overview
+
+The **Netflix Content Distribution Dashboard** is an Excel-based data analytics project designed to analyze and visualize Netflix's content library.
+
+The project transforms raw Netflix data into meaningful business insights using **Power Query, Pivot Tables, and interactive Excel visualizations**. The dashboard provides an overview of content distribution across content types, ratings, countries, and release years.
+
+## 🎯 Objective
+
+The primary objective of this project is to analyze Netflix's content catalog and identify key patterns and trends that can support data-driven decision-making.
+
+The analysis focuses on:
+
+* Distribution of Movies and TV Shows
+* Content distribution by rating
+* Top countries contributing Netflix content
+* Content trends across release years
+* Overall composition of the Netflix catalog
+
+## 🛠️ Tools & Technologies
+
+* **Microsoft Excel**
+* **Power Query**
+* **Pivot Tables**
+* **Pivot Charts**
+* **Excel Dashboard**
+* **Data Cleaning & Transformation**
+
+## 🔄 Project Workflow
+
+### 1. Data Preparation
+
+The raw Netflix dataset was imported into Excel and reviewed for data quality issues.
+
+### 2. Data Cleaning
+
+Power Query was used to:
+
+* Handle missing values
+* Identify and remove duplicate records
+* Clean and standardize data
+* Transform columns for analysis
+* Prepare the dataset for visualization
+
+### 3. Data Analysis
+
+Pivot Tables were created to summarize the dataset and generate the required metrics for analysis.
+
+### 4. Dashboard Development
+
+The summarized data was used to create an interactive dashboard containing KPIs and visualizations.
+
+## 🔍 Key Insights
+
+* Movies account for the majority of titles in the analyzed Netflix dataset.
+* **TV-MA** represents one of the largest content-rating categories.
+* The **United States** is the leading country by number of titles.
+* Netflix's catalog shows substantial growth in content released during recent years.
+* The dashboard provides a consolidated view of content distribution across multiple dimensions.
+
+
+## 💼 Skills Demonstrated
+
+* Data Cleaning & Transformation
+* Exploratory Data Analysis
+* Power Query
+* Pivot Tables
+* Data Visualization
+* Excel Dashboard Development
+* KPI Development
+* Business Insights & Reporting
+
+  ## 📈 Business Value
+
+This dashboard demonstrates how raw content data can be converted into an easy-to-understand analytical report.
+
+The analysis can help stakeholders:
+
+* Understand the composition of the content catalog
+* Identify major content-producing countries
+* Analyze audience rating patterns
+* Understand content growth over time
+* Support data-driven content strategy decisions
+
+ ## 🏁 Conclusion
+
+The Netflix Content Distribution Dashboard transforms raw Netflix data into clear and meaningful business insights.
+Using **Power Query, Pivot Tables, and Excel visualizations**, the project analyzes content types, ratings, countries, and release trends.
+The dashboard highlights key patterns such as the dominance of Movies and the leading contribution of the United States.
+Overall, this project demonstrates practical skills in **data cleaning, analysis, visualization, and dashboard development**.
+
+
+
+
+⭐ **If you found this project useful, feel free to explore the dashboard and analysis.**
 
