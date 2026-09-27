@@ -89,9 +89,3 @@ The Netflix Content Distribution Dashboard transforms raw Netflix data into clea
 Using **Power Query, Pivot Tables, and Excel visualizations**, the project analyzes content types, ratings, countries, and release trends.
 The dashboard highlights key patterns such as the dominance of Movies and the leading contribution of the United States.
 Overall, this project demonstrates practical skills in **data cleaning, analysis, visualization, and dashboard development**.
-
-
-
-
-⭐ **If you found this project useful, feel free to explore the dashboard and analysis.**
-
